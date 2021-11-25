@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SRMGP-5352.iml" filepath="$PROJECT_DIR$/.idea/SRMGP-5352.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/aem-guides-srmgp.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/aem-guides-srmgp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/all/aem-guides-srmgp.all.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/all/aem-guides-srmgp.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/core/aem-guides-srmgp.core.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/core/aem-guides-srmgp.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/dispatcher/aem-guides-srmgp.dispatcher.ams.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/dispatcher/aem-guides-srmgp.dispatcher.ams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/it.tests/aem-guides-srmgp.it.tests.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/it.tests/aem-guides-srmgp.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/ui.apps/aem-guides-srmgp.ui.apps.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/ui.apps/aem-guides-srmgp.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/ui.apps.structure/aem-guides-srmgp.ui.apps.structure.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/ui.apps.structure/aem-guides-srmgp.ui.apps.structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/ui.config/aem-guides-srmgp.ui.config.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/ui.config/aem-guides-srmgp.ui.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/ui.content/aem-guides-srmgp.ui.content.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/ui.content/aem-guides-srmgp.ui.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/ui.frontend/aem-guides-srmgp.ui.frontend.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/ui.frontend/aem-guides-srmgp.ui.frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aem-guides-srmgp/ui.tests/aem-guides-srmgp.ui.tests.iml" filepath="$PROJECT_DIR$/aem-guides-srmgp/ui.tests/aem-guides-srmgp.ui.tests.iml" />
+    </modules>
+  </component>
+</project>
